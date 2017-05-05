@@ -9,8 +9,8 @@ import UIKit
 class ResultViewController: UIViewController {
 
     @IBOutlet weak var Rlabel: UILabel!
+    
     // 受け取るためのプロパティ（変数）を宣言しておく
-    //var y:Int = 0
     var z:String = ""
 
     override func viewDidLoad() {
